@@ -1,0 +1,19 @@
+{
+  "name": "weather-agent",
+  "version": "1.0.0",
+  "description": "Agentic AI Weather Email System",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@getbrevo/brevo": "^2.5.0",
+    "axios": "^1.18.0",
+    "dotenv": "^16.6.1",
+    "openai": "^4.104.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
